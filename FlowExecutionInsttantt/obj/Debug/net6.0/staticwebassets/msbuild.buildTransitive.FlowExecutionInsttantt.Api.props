@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FlowExecutionInsttantt.Api.props" />
+</Project>
